@@ -1,1 +1,1 @@
-# Mobile-Manufacturer-Data-Analysis-using-SQL
+We've leveraged SQL queries to uncover important business insights within datasets containing cell phone sales and transaction details. We've made extensive use of SQL Joins for in-depth data analysis. Our tool of choice is MS SQL Server, where we craft queries to extract meaningful information. To achieve this, we employ SQL Joins, window functions, sub-queries, and CTEs, enabling us to unlock a wealth of valuable business insights.
